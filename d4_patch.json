@@ -1,3 +1,581 @@
-{
-  "patch": "value"
-}
+[
+    {
+        "group": "skills",
+        "slug": "brandish-returning-light",
+        "patch": {
+            "name": "Returning Light"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "brandish-sword-of-mastery",
+        "patch": {
+            "name": "Sword of Mastery"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "brandish-cross-strike",
+        "patch": {
+            "name": "Cross Strike"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "holy-bolt-ricocheting-bolt",
+        "patch": {
+            "name": "Ricocheting Bolt"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "holy-bolt-divine-bolt",
+        "patch": {
+            "name": "Divine Bolt",
+            "requiredRank": 2
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "holy-bolt-storm-bolt",
+        "patch": {
+            "name": "Storm Bolt"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "clash-punishment",
+        "patch": {
+            "name": "Punishment"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "clash-skirmish",
+        "patch": {
+            "name": "Skirmish"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "clash-seize-them",
+        "patch": {
+            "name": "Seize Them"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "advance-vanguards-rush",
+        "patch": {
+            "name": "Vanguard's Rush"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "advance-wave-dash",
+        "patch": {
+            "name": "Wave Dash"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "advance-flash-of-the-blade",
+        "patch": {
+            "name": "Flash of the Blade"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "zeal-cull-the-wicked",
+        "patch": {
+            "name": "Cull the Wicked"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "zeal-death-or-glory",
+        "patch": {
+            "name": "Death or Glory"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "zeal-zealots-legacy",
+        "patch": {
+            "name": "Zealots' Legacy"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "blessed-shield-shield-of-justice",
+        "patch": {
+            "name": "Shield of Justice"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "blessed-shield-shield-of-the-revenant",
+        "patch": {
+            "name": "Shield of the Revenant"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "blessed-shield-shield-of-retribution",
+        "patch": {
+            "name": "Shield of Retribution"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "blessed-hammer-shattering-blow",
+        "patch": {
+            "name": "Shattering Blow"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "blessed-hammer-disciples-halo",
+        "patch": {
+            "name": "Disciples' Halo"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "blessed-hammer-mortar-combat",
+        "patch": {
+            "name": "Mortar Combat"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "divine-lance-tip-of-the-spear",
+        "patch": {
+            "name": "Tip of the Spear"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "divine-lance-zealous-joust",
+        "patch": {
+            "name": "Zealous Joust"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "divine-lance-divine-javelin",
+        "patch": {
+            "name": "Divine Javelin"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "shield-bash-breach",
+        "patch": {
+            "name": "Breach"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "shield-bash-smite",
+        "patch": {
+            "name": "Smite"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "shield-bash-lay-siege",
+        "patch": {
+            "name": "Lay Siege"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "fanaticism-aura-rite-of-vengeance",
+        "patch": {
+            "name": "Rite of Vengeance"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "fanaticism-aura-rite-of-humility",
+        "patch": {
+            "name": "Rite of Humility"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "fanaticism-aura-rite-of-redemption",
+        "patch": {
+            "name": "Rite of Redemption"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "defiance-aura-rite-of-might",
+        "patch": {
+            "name": "Rite of Might"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "defiance-aura-rite-of-prayer",
+        "patch": {
+            "name": "Rite of Prayer"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "defiance-aura-rite-of-thorns",
+        "patch": {
+            "name": "Rite of Thorns"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "holy-light-aura-rite-of-judgement",
+        "patch": {
+            "name": "Rite of Judgement"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "holy-light-aura-rite-of-mercy",
+        "patch": {
+            "name": "Rite of Mercy"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "holy-light-aura-rite-of-submission",
+        "patch": {
+            "name": "Rite of Submission"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "shield-charge-v2-enhanced",
+        "patch": {
+            "name": "Enhanced Shield Charge"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "shield-charge-v2-relentless-charge",
+        "patch": {
+            "name": "Relentless Charge"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "shield-charge-v2-virtuous-charge",
+        "patch": {
+            "name": "Virtuous Charge"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "shield-charge-v2-phalanx-charge",
+        "patch": {
+            "name": "Phalanx Charge"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "aegis-stay-resolute",
+        "patch": {
+            "name": "Stay Resolute"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "aegis-faith-is-my-shield",
+        "patch": {
+            "name": "Faith is My Shield"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "aegis-impunity",
+        "patch": {
+            "name": "Impunity"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "falling-star-freefall",
+        "patch": {
+            "name": "Freefall"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "falling-star-fanatic-descent",
+        "patch": {
+            "name": "Fanatic Descent"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "falling-star-faster-than-light",
+        "patch": {
+            "name": "Faster than Light"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "rally-words-of-sacrifice",
+        "patch": {
+            "name": "Words of Sacrifice"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "rally-words-of-inspiration",
+        "patch": {
+            "name": "Words of Inspiration"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "rally-words-of-rejuvenation",
+        "patch": {
+            "name": "Words of Rejuvenation"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "purify-sentence",
+        "patch": {
+            "name": "Sentence"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "purify-surrender",
+        "patch": {
+            "name": "Surrender"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "purify-absolution",
+        "patch": {
+            "name": "Absolution"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "consecration-hallowed-ground",
+        "patch": {
+            "name": "Hallowed Ground"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "consecration-bastion",
+        "patch": {
+            "name": "Bastion"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "consecration-sanctify",
+        "patch": {
+            "name": "Sanctify"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "condemn-gather-the-guilty",
+        "patch": {
+            "name": "Gather the Guilty"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "condemn-atonement",
+        "patch": {
+            "name": "Atonement"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "condemn-shepard-the-flock",
+        "patch": {
+            "name": "Shepard the Flock"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "spear-of-the-heavens-pronouncement-of-heaven",
+        "patch": {
+            "name": "Pronouncement of Heaven"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "spear-of-the-heavens-part-the-heavens",
+        "patch": {
+            "name": "Part the Heavens"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "spear-of-the-heavens-fist-of-the-heavens",
+        "patch": {
+            "name": "Fist of the Heavens"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "heavens-fury-final-justice",
+        "patch": {
+            "name": "Final Justice"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "heavens-fury-walk-with-the-light",
+        "patch": {
+            "name": "Walk with the Light"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "heavens-fury-triplicate",
+        "patch": {
+            "name": "Triplicate"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "fortress-entrench",
+        "patch": {
+            "name": "Entrench"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "fortress-barricade",
+        "patch": {
+            "name": "Barricade"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "fortress-rampart-of-thorns",
+        "patch": {
+            "name": "Rampart of Thorns"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "zenith-empyrean-edge",
+        "patch": {
+            "name": "Empyrean Edge"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "zenith-sermon-of-steel",
+        "patch": {
+            "name": "Sermon of Steel"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "zenith-sunder",
+        "patch": {
+            "name": "Sunder"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "arbiter-of-justice-divine-intervention",
+        "patch": {
+            "name": "Divine Intervention"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "arbiter-of-justice-reach-of-the-law",
+        "patch": {
+            "name": "Reach of the Law"
+        }
+    },
+    {
+        "group": "skills",
+        "slug": "arbiter-of-justice-seraphs-wings",
+        "patch": {
+            "name": "Seraphs' Wings"
+        }
+    },
+    {
+        "group": "stats",
+        "slug": "life-on-hit",
+        "patch": {
+            "buildSlotsSlugs": [
+                "ring-1",
+                "slashing-weapon",
+                "druid-weapon",
+                "ranged-weapon",
+                "paladin-weapon",
+                "shield",
+                "necromancer-offhand",
+                "amulet",
+                "bludgeoning-weapon",
+                "spiritborn-weapon",
+                "ring-2",
+                "weapon",
+                "necromancer-weapon",
+                "gloves",
+                "dual-wield-weapon-1",
+                "dual-wield-weapon-2",
+                "sorcerer-weapon",
+                "paladin-offhand",
+                "offhand"
+            ]
+        }
+    },
+    {
+        "group": "stats",
+        "slug": "damage-reduction",
+        "patch": {
+            "deprecated": false,
+            "buildSlotsSlugs": [
+                "paladin-offhand",
+                "necromancer-offhand"
+            ]
+         }
+    },
+    {
+        "group": "stats",
+        "slug": "life-on-kill",
+        "patch": {
+            "buildSlotsSlugs": [
+                "chest-armor",
+                "pants",
+                "ring-1",
+                "bludgeoning-weapon",
+                "spiritborn-weapon",
+                "amulet",
+                "ring-2",
+                "slashing-weapon",
+                "sorcerer-weapon",
+                "ranged-weapon",
+                "gloves",
+                "dual-wield-weapon-1",
+                "necromancer-weapon",
+                "paladin-weapon",
+                "helm",
+                "boots",
+                "dual-wield-weapon-2",
+                "weapon",
+                "druid-weapon",
+                "paladin-offhand",
+                "offhand"
+            ]
+        }
+    }
+]
